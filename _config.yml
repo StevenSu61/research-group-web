@@ -44,10 +44,10 @@ navigation:
   - title: Home
     link: /
   - title: People
-    link: /#people
+    link: /https://www.whut.edu.cn/#people
   - title: Research
-    link: /research.html
+    link: /https://www.whut.edu.cn//research.html
   - title: Publications
-    link: /publications.html
+    link: /https://www.whut.edu.cn//publications.html
   - title: Code
-    link: /code.html
+    link: /https://www.whut.edu.cn//code.html
