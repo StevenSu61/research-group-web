@@ -23,7 +23,7 @@ scott:
     display_name: "Scott Summers"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: staff
-    image: /img/people/scott.png
+    image: /research-group-web//img/people/scott.png
     bio: aka Cyclops
 
 wolverine:
@@ -36,7 +36,7 @@ storm:
     display_name: "Storm"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
-    image: /img/people/storm.png
+    image: /research-group-web//img/people/storm.png
 
 grad-a:
     display_name: "Grad A"
