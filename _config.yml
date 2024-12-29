@@ -44,10 +44,10 @@ navigation:
   - title: Home
     link: /
   - title: People
-    link: /https://stevensu61.github.io/research-group-web/people
+    link: /research-group-web/people
   - title: Research
-    link: /https://stevensu61.github.io/research-group-web/research.html
+    link: /research-group-web/research.html
   - title: Publications
-    link: /https://stevensu61.github.io/research-group-web/publications.html
+    link: /research-group-web/publications.html
   - title: Code
-    link: /https://stevensu61.github.io/research-group-web/code.html
+    link: /research-group-web/code.html
