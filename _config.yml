@@ -42,7 +42,7 @@ collections:
 # Navigation bar links.
 navigation:
   - title: Home
-    link: /research-group-web//
+    link: /research-group-web/
   - title: People
     link: /research-group-web/people
   - title: Research
